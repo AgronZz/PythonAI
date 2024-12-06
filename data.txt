@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence by machines, especially computers. It involves creating systems that can perform tasks typically requiring human thought, such as learning, problem-solving, understanding language, recognizing patterns, and decision-making. AI can be divided into two main types:
+
+Narrow AI: This is designed to perform specific tasks, like voice assistants (e.g., Siri or Alexa), image recognition, or playing chess.
+
+General AI: A more advanced, theoretical form of AI that would have the ability to understand, learn, and apply intelligence across a broad range of tasks, much like a human.
